@@ -8,3 +8,10 @@
 ### Scoring:
 Make it to the water. +1 Point. 
 Get runover by a bug, your score resets!
+
+### Controls:
+> 4 Simple Buttons to move your character | **Keyboard Only**
+- Up 
+- Down
+- Left
+- Right
